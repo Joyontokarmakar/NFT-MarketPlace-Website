@@ -1,5 +1,5 @@
 ## A MarketPlace Website With Dynamic Content
-## [Live Site](https://nft-dynamic-marketplace.netlify.app/)
+## [Live Site](https://nft-web-marketplace.netlify.app/)
 
 ## To Run Project in your Local PC follow the following steps:
 
