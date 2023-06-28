@@ -5,7 +5,7 @@
 
 ### Step 1 - Clone My Github Repository from:
 ```
-git clone https://github.com/Joyontokarmakar/MarketPlace-Website.git
+https://github.com/Joyontokarmakar/NFT-MarketPlace-Website.git
 ```
 
 ### Step 2 - Installation.
