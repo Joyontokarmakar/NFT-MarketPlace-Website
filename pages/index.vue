@@ -181,7 +181,16 @@
                     <button class="w-[118px] rounded-full border-2 border-blue-800 py-2 px-2 text-sm font-normal text-white transition duration-200 ease-in bg-blue-800 hover:bg-white hover:text-blue-800">Sign Up Now</button>
                </div>
           </div>
-          <!-- Sell NFTS Section End -->     
+          <!-- Sell NFTS Section End -->  
+          
+          <!-- Product Category Section Start -->
+          <div class="bg-primaryGray bg-opacity-20 commonSpacing py-[65px]">
+               <h2 class="text-[34px] leading-[41px] font-bold">Discover more NFTs</h2>
+               <div class="mt-[38px]">
+                    <ProductCategory/>
+               </div>
+          </div>
+          <!-- Product Category Section End -->
      </div>
 </template>
 
